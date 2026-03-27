@@ -1,6 +1,7 @@
 # baekTeam
 
 - **김미리** : https://github.com/kimmiri1234
+- **박현** :https://github.com/sdasvazx
 - **박지연** : https://github.com/jyeon64
 - **강호영** : https://github.com/hoyoung6604
 - **김하영** : https://github.com/happang0815
@@ -27,7 +28,6 @@
 - **박자현** : https://github.com/JHyun03-dde
 - **김수형** : https://github.com/bestevan01 
 
----
 ### 팀 url
 - **세븐일레븐** : https://github.com/Seven-Eleven-team/SevenEleven
 - **인텔리제이조** : https://github.com/kdt-financial-team2/kdt-team2-project
