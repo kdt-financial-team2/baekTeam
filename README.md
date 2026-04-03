@@ -1,4 +1,24 @@
 # baekTeam
+
+### 260403
+시장 조사 및 벤치마킹
+  - 집에가고싶조: https://github.com/shortKDT/main/blob/main/ProjectInfo.md
+  - 세븐일레븐: https://www.notion.so/332984c1fe3280b987a7d15af39ed569
+  - 인텔리제이조:
+  - 남자만있조:
+  - 버그잡았조:
+
+
+
+---
+### 팀 url
+- **집에가고싶조** : https://github.com/shortKDT 
+- **세븐일레븐** : https://github.com/Seven-Eleven-team/SevenEleven
+- **인텔리제이조** : https://github.com/kdt-financial-team2/kdt-team2-project
+- **남자만있조** : https://github.com/izzyon0121/2026KDT_TEAM1
+- **버그잡았조** :https://github.com/GotchaBug123
+
+---
 1. **강호영** : https://github.com/hoyoung6604
 2. **권순우** : https://github.com/soon5483
 3. **김다은** : https://github.com/rlekdm
@@ -30,10 +50,3 @@
 29. **조영진** : https://github.com/dawnlife
 30. **최시현** : https://github.com/choisihyeon
 31. **홍성혁** : https://github.com/HsH1121
-
-### 팀 url
-- **집에가고싶조** : https://github.com/shortKDT 
-- **세븐일레븐** : https://github.com/Seven-Eleven-team/SevenEleven
-- **인텔리제이조** : https://github.com/kdt-financial-team2/kdt-team2-project
-- **남자만있조** : https://github.com/izzyon0121/2026KDT_TEAM1
-- **버그잡았조** :https://github.com/GotchaBug123
