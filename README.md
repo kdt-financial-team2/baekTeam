@@ -6,7 +6,7 @@
   - 세븐일레븐: https://www.notion.so/332984c1fe3280b987a7d15af39ed569
   - 인텔리제이조:
   - 남자만있조:
-  - 버그잡았조:
+  - 버그잡았조:https://docs.google.com/document/d/1bXYUe9IgjIPNUM2Ms67_BA_QahPjE1XNiJi_MW5MTYw/edit?usp=sharing
 
 
 
