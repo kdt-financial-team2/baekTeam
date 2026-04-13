@@ -1,7 +1,7 @@
 # baekTeam
 ### 260407
 요구사항 정의서
-  - 집에가고싶조: 
+  - 집에가고싶조: https://github.com/kimmiri1234/baekTeam
   - 세븐일레븐: https://www.notion.so/337c6c4cb51580eca9cadcc9efd87728
   - 인텔리제이조: https://www.notion.so/5-33b50085f74e800bb200f52accc58b86?source=copy_link
   - 남자만있조: 
