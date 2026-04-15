@@ -5,7 +5,7 @@
   - 세븐일레븐:
   - 인텔리제이조: https://docs.google.com/spreadsheets/d/1P8DQt8C622pAXwLajutz8M3Rq-7T_UCe/edit?usp=sharing&ouid=101179219969375266084&rtpof=true&sd=true
   - 남자만있조:
-  - 버그잡았조:
+  - 버그잡았조: https://docs.google.com/spreadsheets/d/1yltrg5-o9hbKMONs2I3ll1LHkHlx8xjg/edit?usp=sharing&ouid=107711888499493301530&rtpof=true&sd=true
 
 
 
