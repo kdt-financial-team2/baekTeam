@@ -3,7 +3,7 @@
 요구사항 정의서 체크리스트
   - 집에가고싶조: 
   - 세븐일레븐:
-  - 인텔리제이조:
+  - 인텔리제이조: https://docs.google.com/spreadsheets/d/1P8DQt8C622pAXwLajutz8M3Rq-7T_UCe/edit?usp=sharing&ouid=101179219969375266084&rtpof=true&sd=true
   - 남자만있조:
   - 버그잡았조:
 
