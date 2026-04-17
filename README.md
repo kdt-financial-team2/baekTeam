@@ -1,8 +1,8 @@
-# baekTeam
+<img width="2091" height="1501" alt="image" src="https://github.com/user-attachments/assets/ff34cae2-5e92-4c19-b980-c6b4feb01bb5" /># baekTeam
 ### 260415
 요구사항 정의서 체크리스트
   - 집에가고싶조: https://www.notion.so/343e7e39b1978058bd9cc0f308ce37e0
-  - 세븐일레븐:
+  - 세븐일레븐: https://docs.google.com/spreadsheets/d/1Rr_PHhZ0-knQU7tgGfCJrpSgh8f5w5kUJRJImSJZAIM/edit?gid=1901645831#gid=1901645831
   - 인텔리제이조: https://docs.google.com/spreadsheets/d/1P8DQt8C622pAXwLajutz8M3Rq-7T_UCe/edit?usp=sharing&ouid=101179219969375266084&rtpof=true&sd=true
   - 남자만있조:
   - 버그잡았조: https://docs.google.com/spreadsheets/d/1yltrg5-o9hbKMONs2I3ll1LHkHlx8xjg/edit?usp=sharing&ouid=107711888499493301530&rtpof=true&sd=true
