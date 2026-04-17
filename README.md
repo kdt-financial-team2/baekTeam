@@ -1,4 +1,4 @@
-<img width="2091" height="1501" alt="image" src="https://github.com/user-attachments/assets/ff34cae2-5e92-4c19-b980-c6b4feb01bb5" /># baekTeam
+# baekTeam
 ### 260415
 요구사항 정의서 체크리스트
   - 집에가고싶조: https://www.notion.so/343e7e39b1978058bd9cc0f308ce37e0
