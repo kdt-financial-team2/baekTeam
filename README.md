@@ -2,7 +2,7 @@
 ### 260421
 DB 설계서
   - 집에가고싶조:
-  - 세븐일레븐:https://docs.google.com/spreadsheets/d/1W4IsNRTPrSiyszQimGllRlsEe8BhV4JjhRUXJtow_r0/edit?gid=364761285#gid=364761285
+  - 세븐일레븐: https://www.notion.so/DB-341c6c4cb51580b096e0f42ad5df4a3f
   - 인텔리제이조: https://www.notion.so/DB-34850085f74e8067b978f702778622f6?source=copy_link
   - 남자만있조:
   - 버그잡았조:
