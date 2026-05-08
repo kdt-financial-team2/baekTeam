@@ -49,7 +49,7 @@ DB 설계서
 - **사육사조** : https://github.com/shortKDT 
 - **세븐일레븐** : https://github.com/Seven-Eleven-team/SevenEleven
 - **인텔리제이조** : https://github.com/kdt-financial-team2/kdt-team2-project
-- **남자만있조** : https://github.com/izzyon0121/2026KDT_TEAM1
+- **남자만있조** :https://github.com/kdtLEANDASH/2026leandash/tree/dev
 - **버그잡았조** :https://github.com/GotchaBug123
 
 ---
